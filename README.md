@@ -4,19 +4,19 @@ This project is a front-end clone of the Cuberto website, created as part of my 
 
 🚀 Tech Stack
 
-HTML5
-CSS3
+HTML5,
+CSS3,
 JavaScript (ES6)
 
 ✨ What I Practiced
 
-Creating responsive and visually appealing layouts
-Implementing smooth scrolling effects
-Building advanced animations using GSAP
-Adding interactive hover effects and transitions
-Creating a custom mouse follower/cursor animation
-Writing clean, modular, and reusable JavaScript
-Improving UI/UX through micro-interactions
+Creating responsive and visually appealing layouts,
+Implementing smooth scrolling effects,
+Building advanced animations using GSAP,
+Adding interactive hover effects and transitions,
+Creating a custom mouse follower/cursor animation,
+Writing clean, modular, and reusable JavaScript,
+Improving UI/UX through micro-interactions,
 Organizing project structure for better maintainability
 
 📚 Learning Outcome
